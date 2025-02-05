@@ -1,7 +1,7 @@
 # Spotify
 
 <h3>O que é essa aplicação?</h3
- <p> Essa aplicação atua como um clone da página do Spotify, ela foi criada com tecnologias como React, JavaScript, Html, Css, além de uma 'API Fake' para a busca de artistas. </p>
+ <p> Essa aplicação que atua como um clone da página do Spotify, ela foi criada com tecnologias como React, JavaScript, Html, Css, além de uma 'API Fake' para a busca de artistas. </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/592fc0d9-565e-4ed6-9332-67cfdf85f476" width="500">
